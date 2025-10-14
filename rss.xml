@@ -1,0 +1,239 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<rss version="2.0"  xml:lang="ru"  xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        
+
+        
+
+        
+            <language>ru</language>
+        
+
+        
+            <lastBuildDate>Fri, 03 Jan 2025 00:00:00 UTC</lastBuildDate>
+        
+
+        
+            <link>http://localhost:1313/</link>
+        
+
+        
+            <atom:link href="http://localhost:1313/rss.xml" hreflang="ru" rel="self" type="application/rss+xml"/>
+        
+
+        
+            
+
+            <atom:link href="http://localhost:1313/" hreflang="ru" rel="alternate" type="text/html"/>
+        
+            
+
+            <atom:link href="http://localhost:1313/rss.xml" hreflang="ru" rel="alternate" type="application/rss+xml"/>
+        
+
+        
+
+        
+
+        
+            <title>Written Exposure Therapy</title>
+        
+
+        
+
+        
+            
+                <item>
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+
+                    
+
+                    
+
+                    
+
+                    
+
+                    
+                    
+                    
+
+                    
+
+                    
+                        <description><![CDATA[<h1 id=кейс-из-практики>Кейс из практики</h1><p><em>Здесь будет кейс из практики WET терапии&mldr;</em></p><h2 id=описание-случая>Описание случая</h2><p><em>Содержание кейса&mldr;</em></p><h2 id=процесс-терапии>Процесс терапии</h2><p><em>Содержание кейса&mldr;</em></p><h2 id=результаты>Результаты</h2><p><em>Содержание кейса&mldr;</em></p>]]></description>
+                    
+
+                    
+                        <guid isPermaLink="false">tag:localhost:1313,2025-01-03:/blog/article-3/</guid>
+                    
+
+                    
+                        <link>http://localhost:1313/blog/article-3/</link>
+                    
+
+                    
+                        
+
+                        
+
+                        <atom:link href="http://localhost:1313/blog/article-3/" hreflang="ru" rel="alternate" type="text/html"/>
+                    
+
+                    
+
+                    
+                        <pubDate>Fri, 03 Jan 2025 00:00:00 UTC</pubDate>
+                    
+
+                    
+                        <title>Кейс из практики</title>
+                    
+                </item>
+            
+        
+            
+                <item>
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+
+                    
+
+                    
+
+                    
+
+                    
+
+                    
+                    
+                    
+
+                    
+
+                    
+                        <description><![CDATA[<h1 id=научные-исследования-wet>Научные исследования WET</h1><p><em>Здесь будет статья о научных исследованиях&mldr;</em></p><h2 id=обзор-исследований>Обзор исследований</h2><p><em>Содержание статьи&mldr;</em></p><h2 id=результаты>Результаты</h2><p><em>Содержание статьи&mldr;</em></p>]]></description>
+                    
+
+                    
+                        <guid isPermaLink="false">tag:localhost:1313,2025-01-02:/blog/article-2/</guid>
+                    
+
+                    
+                        <link>http://localhost:1313/blog/article-2/</link>
+                    
+
+                    
+                        
+
+                        
+
+                        <atom:link href="http://localhost:1313/blog/article-2/" hreflang="ru" rel="alternate" type="text/html"/>
+                    
+
+                    
+
+                    
+                        <pubDate>Thu, 02 Jan 2025 00:00:00 UTC</pubDate>
+                    
+
+                    
+                        <title>Научные исследования WET</title>
+                    
+                </item>
+            
+        
+            
+                <item>
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+
+                    
+
+                    
+
+                    
+
+                    
+
+                    
+                    
+                    
+
+                    
+
+                    
+                        <description><![CDATA[<h1 id=что-такое-wet-терапия>Что такое WET терапия?</h1><p><em>Здесь будет статья о WET терапии&mldr;</em></p><h2 id=введение>Введение</h2><p><em>Содержание статьи&mldr;</em></p><h2 id=основные-принципы>Основные принципы</h2><p><em>Содержание статьи&mldr;</em></p><h2 id=заключение>Заключение</h2><p><em>Содержание статьи&mldr;</em></p>]]></description>
+                    
+
+                    
+                        <guid isPermaLink="false">tag:localhost:1313,2025-01-01:/blog/article-1/</guid>
+                    
+
+                    
+                        <link>http://localhost:1313/blog/article-1/</link>
+                    
+
+                    
+                        
+
+                        
+
+                        <atom:link href="http://localhost:1313/blog/article-1/" hreflang="ru" rel="alternate" type="text/html"/>
+                    
+
+                    
+
+                    
+                        <pubDate>Wed, 01 Jan 2025 00:00:00 UTC</pubDate>
+                    
+
+                    
+                        <title>Что такое WET терапия?</title>
+                    
+                </item>
+            
+        
+    </channel>
+</rss>

@@ -1,46 +1,213 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Written Exposure Therapy on</title><link>http://wet-therapy.ru/</link><description>Recent content in Written Exposure Therapy on</description><generator>Hugo -- gohugo.io</generator><language>ru</language><copyright>© 2025</copyright><lastBuildDate>Fri, 03 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://wet-therapy.ru/index.xml" rel="self" type="application/rss+xml"/><item><title>Кейс из практики</title><link>http://wet-therapy.ru/blog/article-3/</link><pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate><guid>http://wet-therapy.ru/blog/article-3/</guid><description>&lt;h1 class="relative group"&gt;Кейс из практики
-&lt;div id="кейс-из-практики" class="anchor"&gt;&lt;/div&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title/><link>https://Andrei-V-Martynov.github.io/wet-therapy-site/</link><description>Recent content on</description><generator>Hugo -- gohugo.io</generator><language>ru</language><copyright>© 2025</copyright><atom:link href="https://Andrei-V-Martynov.github.io/wet-therapy-site/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://Andrei-V-Martynov.github.io/wet-therapy-site/evidence/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://Andrei-V-Martynov.github.io/wet-therapy-site/evidence/</guid><description>&lt;h1 class="relative group"&gt;Evidence &amp;amp; Research
+&lt;div id="evidence--research" class="anchor"&gt;&lt;/div&gt;
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%d0%ba%d0%b5%d0%b9%d1%81-%d0%b8%d0%b7-%d0%bf%d1%80%d0%b0%d0%ba%d1%82%d0%b8%d0%ba%d0%b8" aria-label="Якорь"&gt;#&lt;/a&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#evidence--research" aria-label="Якорь"&gt;#&lt;/a&gt;
 &lt;/span&gt;
 &lt;/h1&gt;
-&lt;p&gt;&lt;em&gt;Здесь будет кейс из практики WET терапии&amp;hellip;&lt;/em&gt;&lt;/p&gt;
-&lt;h2 class="relative group"&gt;Описание случая
-&lt;div id="описание-случая" class="anchor"&gt;&lt;/div&gt;
+&lt;h2 class="relative group"&gt;Overview
+&lt;div id="overview" class="anchor"&gt;&lt;/div&gt;
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%d0%be%d0%bf%d0%b8%d1%81%d0%b0%d0%bd%d0%b8%d0%b5-%d1%81%d0%bb%d1%83%d1%87%d0%b0%d1%8f" aria-label="Якорь"&gt;#&lt;/a&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#overview" aria-label="Якорь"&gt;#&lt;/a&gt;
 &lt;/span&gt;
 &lt;/h2&gt;
-&lt;p&gt;&lt;em&gt;Содержание кейса&amp;hellip;&lt;/em&gt;&lt;/p&gt;</description></item><item><title>Научные исследования WET</title><link>http://wet-therapy.ru/blog/article-2/</link><pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate><guid>http://wet-therapy.ru/blog/article-2/</guid><description>&lt;h1 class="relative group"&gt;Научные исследования WET
-&lt;div id="научные-исследования-wet" class="anchor"&gt;&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;Short summary of the evidence base: RCTs, pilots, meta-analyses.&lt;/li&gt;
+&lt;li&gt;Short summary of the evidence base: RCTs, pilots, meta-analyses.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 class="relative group"&gt;Publications
+&lt;div id="publications" class="anchor"&gt;&lt;/div&gt;
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%d0%bd%d0%b0%d1%83%d1%87%d0%bd%d1%8b%d0%b5-%d0%b8%d1%81%d1%81%d0%bb%d0%b5%d0%b4%d0%be%d0%b2%d0%b0%d0%bd%d0%b8%d1%8f-wet" aria-label="Якорь"&gt;#&lt;/a&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#publications" aria-label="Якорь"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;The site maintains an authoritative evidence store (&lt;code&gt;notes/WET_21_sources_summary.yml&lt;/code&gt;) and human-readable cards in &lt;code&gt;docs/evidence-cards.md&lt;/code&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;See detailed cards and per-source pages for full citations and extracted takeaways.&lt;/p&gt;</description></item><item><title/><link>https://Andrei-V-Martynov.github.io/wet-therapy-site/home/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://Andrei-V-Martynov.github.io/wet-therapy-site/home/</guid><description>&lt;h1 class="relative group"&gt;Written Exposure Therapy (WET) — Home
+&lt;div id="written-exposure-therapy-wet--home" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#written-exposure-therapy-wet--home" aria-label="Якорь"&gt;#&lt;/a&gt;
 &lt;/span&gt;
 &lt;/h1&gt;
-&lt;p&gt;&lt;em&gt;Здесь будет статья о научных исследованиях&amp;hellip;&lt;/em&gt;&lt;/p&gt;
-&lt;h2 class="relative group"&gt;Обзор исследований
-&lt;div id="обзор-исследований" class="anchor"&gt;&lt;/div&gt;
+&lt;h2 class="relative group"&gt;Hero
+&lt;div id="hero" class="anchor"&gt;&lt;/div&gt;
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%d0%be%d0%b1%d0%b7%d0%be%d1%80-%d0%b8%d1%81%d1%81%d0%bb%d0%b5%d0%b4%d0%be%d0%b2%d0%b0%d0%bd%d0%b8%d0%b9" aria-label="Якорь"&gt;#&lt;/a&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#hero" aria-label="Якорь"&gt;#&lt;/a&gt;
 &lt;/span&gt;
 &lt;/h2&gt;
-&lt;p&gt;&lt;em&gt;Содержание статьи&amp;hellip;&lt;/em&gt;&lt;/p&gt;</description></item><item><title>Что такое WET терапия?</title><link>http://wet-therapy.ru/blog/article-1/</link><pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate><guid>http://wet-therapy.ru/blog/article-1/</guid><description>&lt;h1 class="relative group"&gt;Что такое WET терапия?
-&lt;div id="что-такое-wet-терапия" class="anchor"&gt;&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;One-line value: Brief, evidence-based exposure therapy for PTSD — 5 sessions.&lt;/li&gt;
+&lt;li&gt;CTAs: &lt;a
+href="https://Andrei-V-Martynov.github.io/wet-therapy-site/for-clinicians"&gt;For Clinicians&lt;/a&gt; &lt;a
+href="https://Andrei-V-Martynov.github.io/wet-therapy-site/for-patients"&gt;For Patients&lt;/a&gt; &lt;a
+href="https://Andrei-V-Martynov.github.io/wet-therapy-site/training"&gt;Training&lt;/a&gt; [Find a Therapist]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 class="relative group"&gt;What is WET (brief)
+&lt;div id="what-is-wet-brief" class="anchor"&gt;&lt;/div&gt;
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%d1%87%d1%82%d0%be-%d1%82%d0%b0%d0%ba%d0%be%d0%b5-wet-%d1%82%d0%b5%d1%80%d0%b0%d0%bf%d0%b8%d1%8f" aria-label="Якорь"&gt;#&lt;/a&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#what-is-wet-brief" aria-label="Якорь"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;1–2 sentences: protocol summary and authors (Sloan &amp;amp; Marx).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 class="relative group"&gt;Quick Evidence
+&lt;div id="quick-evidence" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#quick-evidence" aria-label="Якорь"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Non-inferiority RCTs, low dropout; link to Evidence page.&lt;/li&gt;
+&lt;li&gt;Non-inferiority RCTs, low dropout; link to Evidence page (/evidence).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 class="relative group"&gt;For Clinicians / For Patients panels
+&lt;div id="for-clinicians--for-patients-panels" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#for-clinicians--for-patients-panels" aria-label="Якорь"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Short bullets and links to sections.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 class="relative group"&gt;Case studies &amp;amp; Formats
+&lt;div id="case-studies--formats" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#case-studies--formats" aria-label="Якорь"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Links to examples and adaptations.&lt;/li&gt;
+&lt;li&gt;Links to examples and adaptations (see /case-studies and /adaptations).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 class="relative group"&gt;Footer / Subscribe
+&lt;div id="footer--subscribe" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#footer--subscribe" aria-label="Якорь"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Newsletter signup, contact.&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>About Written Exposure Therapy (WET)</title><link>https://Andrei-V-Martynov.github.io/wet-therapy-site/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://Andrei-V-Martynov.github.io/wet-therapy-site/about/</guid><description>&lt;h1 class="relative group"&gt;About Written Exposure Therapy
+&lt;div id="about-written-exposure-therapy" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#about-written-exposure-therapy" aria-label="Якорь"&gt;#&lt;/a&gt;
 &lt;/span&gt;
 &lt;/h1&gt;
-&lt;p&gt;&lt;em&gt;Здесь будет статья о WET терапии&amp;hellip;&lt;/em&gt;&lt;/p&gt;
-&lt;h2 class="relative group"&gt;Введение
-&lt;div id="введение" class="anchor"&gt;&lt;/div&gt;
+&lt;p&gt;Written Exposure Therapy (WET) is a brief, manualized, exposure-based treatment for posttraumatic stress disorder (PTSD) developed and described by Sloan &amp;amp; Marx.&lt;/p&gt;</description></item><item><title>For Clinicians — Written Exposure Therapy</title><link>https://Andrei-V-Martynov.github.io/wet-therapy-site/for-clinicians/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://Andrei-V-Martynov.github.io/wet-therapy-site/for-clinicians/</guid><description>&lt;h1 class="relative group"&gt;For Clinicians
+&lt;div id="for-clinicians" class="anchor"&gt;&lt;/div&gt;
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%d0%b2%d0%b2%d0%b5%d0%b4%d0%b5%d0%bd%d0%b8%d0%b5" aria-label="Якорь"&gt;#&lt;/a&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#for-clinicians" aria-label="Якорь"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h1&gt;
+&lt;p&gt;WET is designed to be efficient, teachable, and implementable in typical outpatient and specialty settings. The core session structure, therapist script, and brief between-session feedback maintain fidelity while minimizing clinician time per patient.&lt;/p&gt;</description></item><item><title>For Patients — What to Expect from WET</title><link>https://Andrei-V-Martynov.github.io/wet-therapy-site/for-patients/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://Andrei-V-Martynov.github.io/wet-therapy-site/for-patients/</guid><description>&lt;h1 class="relative group"&gt;For Patients
+&lt;div id="for-patients" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#for-patients" aria-label="Якорь"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h1&gt;
+&lt;p&gt;WET is a short, focused treatment for PTSD that centers on writing about the traumatic event(s) in detail during five sessions with a clinician. Most people attend one 60-minute first session and four 40-minute follow-up sessions that include 30 minutes of in-session writing.&lt;/p&gt;</description></item><item><title>WET Training &amp; Materials</title><link>https://Andrei-V-Martynov.github.io/wet-therapy-site/training/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://Andrei-V-Martynov.github.io/wet-therapy-site/training/</guid><description>&lt;h1 class="relative group"&gt;Training &amp;amp; Materials for Clinicians
+&lt;div id="training--materials-for-clinicians" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#training--materials-for-clinicians" aria-label="Якорь"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h1&gt;
+&lt;p&gt;This section contains the essential materials for training clinicians to deliver WET with fidelity: therapist scripts, session checklists, forms, and brief trainings.&lt;/p&gt;</description></item><item><title>Вопросы и ответы — WET</title><link>https://Andrei-V-Martynov.github.io/wet-therapy-site/ru/faq/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://Andrei-V-Martynov.github.io/wet-therapy-site/ru/faq/</guid><description>&lt;h1 class="relative group"&gt;Часто задаваемые вопросы
+&lt;div id="часто-задаваемые-вопросы" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%d1%87%d0%b0%d1%81%d1%82%d0%be-%d0%b7%d0%b0%d0%b4%d0%b0%d0%b2%d0%b0%d0%b5%d0%bc%d1%8b%d0%b5-%d0%b2%d0%be%d0%bf%d1%80%d0%be%d1%81%d1%8b" aria-label="Якорь"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h1&gt;
+&lt;p&gt;Q: Сколько длится WET?&lt;/p&gt;
+&lt;p&gt;A: Обычно 5 сеансов: первый ~60 минут, последующие ~40 минут.&lt;/p&gt;</description></item><item><title>Для клиницистов — WET</title><link>https://Andrei-V-Martynov.github.io/wet-therapy-site/ru/for-clinicians/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://Andrei-V-Martynov.github.io/wet-therapy-site/ru/for-clinicians/</guid><description>&lt;h1 class="relative group"&gt;Для клиницистов
+&lt;div id="для-клиницистов" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%d0%b4%d0%bb%d1%8f-%d0%ba%d0%bb%d0%b8%d0%bd%d0%b8%d1%86%d0%b8%d1%81%d1%82%d0%be%d0%b2" aria-label="Якорь"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h1&gt;
+&lt;p&gt;WET разработан как эффективный, обучаемый и реализуемый протокол в обычных клинических условиях. Ключевые элементы: чтение скрипта, 30 минут письма в сессии и краткая обратная связь от терапевта.&lt;/p&gt;</description></item><item><title>Для пациентов — Что ожидать</title><link>https://Andrei-V-Martynov.github.io/wet-therapy-site/ru/for-patients/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://Andrei-V-Martynov.github.io/wet-therapy-site/ru/for-patients/</guid><description>&lt;h1 class="relative group"&gt;Для пациентов
+&lt;div id="для-пациентов" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%d0%b4%d0%bb%d1%8f-%d0%bf%d0%b0%d1%86%d0%b8%d0%b5%d0%bd%d1%82%d0%be%d0%b2" aria-label="Якорь"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h1&gt;
+&lt;p&gt;WET — короткая целенаправленная терапия для ПТСР, основанная на письменной экспозиции. Большая часть работы выполняется в кабинете: вы пишете о травме в течение 30 минут под руководством терапевта.&lt;/p&gt;</description></item><item><title>Доказательная база и исследования — WET</title><link>https://Andrei-V-Martynov.github.io/wet-therapy-site/ru/evidence/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://Andrei-V-Martynov.github.io/wet-therapy-site/ru/evidence/</guid><description>&lt;h1 class="relative group"&gt;Доказательная база
+&lt;div id="доказательная-база" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%d0%b4%d0%be%d0%ba%d0%b0%d0%b7%d0%b0%d1%82%d0%b5%d0%bb%d1%8c%d0%bd%d0%b0%d1%8f-%d0%b1%d0%b0%d0%b7%d0%b0" aria-label="Якорь"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h1&gt;
+&lt;p&gt;На этой странице собраны ключевые публикации по WET: рандомизированные исследования, пилоты, обзоры и протоколы.&lt;/p&gt;
+&lt;p&gt;Мы используем авторитетный файл с данными об источниках: &lt;code&gt;notes/WET_21_sources_summary.yml&lt;/code&gt; и читабельные карточки в &lt;code&gt;docs/evidence-cards.md&lt;/code&gt;.&lt;/p&gt;</description></item><item><title>Кейс-стади — Примеры использования WET</title><link>https://Andrei-V-Martynov.github.io/wet-therapy-site/ru/case-studies/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://Andrei-V-Martynov.github.io/wet-therapy-site/ru/case-studies/</guid><description>&lt;h1 class="relative group"&gt;Кейс-стади
+&lt;div id="кейс-стади" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%d0%ba%d0%b5%d0%b9%d1%81-%d1%81%d1%82%d0%b0%d0%b4%d0%b8" aria-label="Якорь"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h1&gt;
+&lt;p&gt;Здесь собраны примеры применения WET в разных популяциях и условиях: ветераны, стационарное лечение СРЗ (SUD), международные адаптации и отдельные клинические кейсы.&lt;/p&gt;</description></item><item><title>О методе — Письменная экспозиционная терапия (WET)</title><link>https://Andrei-V-Martynov.github.io/wet-therapy-site/ru/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://Andrei-V-Martynov.github.io/wet-therapy-site/ru/about/</guid><description>&lt;h1 class="relative group"&gt;О методе WET
+&lt;div id="о-методе-wet" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%d0%be-%d0%bc%d0%b5%d1%82%d0%be%d0%b4%d0%b5-wet" aria-label="Якорь"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h1&gt;
+&lt;p&gt;WET — краткая мануализированная экспозиционная терапия для лечения ПТСР, подробно описанная Sloan &amp;amp; Marx.&lt;/p&gt;</description></item><item><title>Обучение WET</title><link>https://Andrei-V-Martynov.github.io/wet-therapy-site/ru/training/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://Andrei-V-Martynov.github.io/wet-therapy-site/ru/training/</guid><description>&lt;h1 class="relative group"&gt;Обучение и материалы
+&lt;div id="обучение-и-материалы" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%d0%be%d0%b1%d1%83%d1%87%d0%b5%d0%bd%d0%b8%d0%b5-%d0%b8-%d0%bc%d0%b0%d1%82%d0%b5%d1%80%d0%b8%d0%b0%d0%bb%d1%8b" aria-label="Якорь"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h1&gt;
+&lt;p&gt;В этом разделе — необходимые материалы для обучения терапевтов WET: скрипты, чек-листы, формы и короткие руководства.&lt;/p&gt;</description></item><item><title>Письменная экспозиционная терапия (WET) — Главная</title><link>https://Andrei-V-Martynov.github.io/wet-therapy-site/ru/home/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://Andrei-V-Martynov.github.io/wet-therapy-site/ru/home/</guid><description>&lt;h1 class="relative group"&gt;Письменная экспозиционная терапия (WET)
+&lt;div id="письменная-экспозиционная-терапия-wet" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%d0%bf%d0%b8%d1%81%d1%8c%d0%bc%d0%b5%d0%bd%d0%bd%d0%b0%d1%8f-%d1%8d%d0%ba%d1%81%d0%bf%d0%be%d0%b7%d0%b8%d1%86%d0%b8%d0%be%d0%bd%d0%bd%d0%b0%d1%8f-%d1%82%d0%b5%d1%80%d0%b0%d0%bf%d0%b8%d1%8f-wet" aria-label="Якорь"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h1&gt;
+&lt;p&gt;Краткая ценность: краткая, доказательная экспозиционная терапия при ПТСР — 5 сеансов.&lt;/p&gt;
+&lt;h2 class="relative group"&gt;Для кого
+&lt;div id="для-кого" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%d0%b4%d0%bb%d1%8f-%d0%ba%d0%be%d0%b3%d0%be" aria-label="Якорь"&gt;#&lt;/a&gt;
 &lt;/span&gt;
 &lt;/h2&gt;
-&lt;p&gt;&lt;em&gt;Содержание статьи&amp;hellip;&lt;/em&gt;&lt;/p&gt;</description></item></channel></rss>
+&lt;ul&gt;
+&lt;li&gt;Для клиницистов и специалистов&lt;/li&gt;
+&lt;li&gt;Для пациентов и их семей&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 class="relative group"&gt;Быстро о методе
+&lt;div id="быстро-о-методе" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%d0%b1%d1%8b%d1%81%d1%82%d1%80%d0%be-%d0%be-%d0%bc%d0%b5%d1%82%d0%be%d0%b4%d0%b5" aria-label="Якорь"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h2&gt;
+&lt;p&gt;WET — это протокол в 5 сеансов, разработанный Sloan &amp;amp; Marx. Первый сеанс ≈ 60 минут (психообразование + 30 минут письма), последующие — ≈ 40 минут с 30 минутами письменной экспозиции.&lt;/p&gt;</description></item><item><title>Форматы: групповые и массовые варианты WET</title><link>https://Andrei-V-Martynov.github.io/wet-therapy-site/ru/adaptations/group-and-massed/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://Andrei-V-Martynov.github.io/wet-therapy-site/ru/adaptations/group-and-massed/</guid><description>&lt;h1 class="relative group"&gt;Групповые и массовые форматы WET
+&lt;div id="групповые-и-массовые-форматы-wet" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%d0%b3%d1%80%d1%83%d0%bf%d0%bf%d0%be%d0%b2%d1%8b%d0%b5-%d0%b8-%d0%bc%d0%b0%d1%81%d1%81%d0%be%d0%b2%d1%8b%d0%b5-%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%82%d1%8b-wet" aria-label="Якорь"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h1&gt;
+&lt;p&gt;WET адаптировали для групповых и массированных форматов — примеры включают пилоты, где сеансы проводились чаще (например, ежедневно или дважды в неделю) в групповой среде.&lt;/p&gt;</description></item></channel></rss>

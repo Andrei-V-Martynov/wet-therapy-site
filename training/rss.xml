@@ -1,0 +1,83 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+    
+
+    
+        
+
+        
+            
+        
+    
+
+
+
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<rss version="2.0"  xml:lang="ru"  xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        
+
+        
+            <description>Программы обучения для психологов</description>
+        
+
+        
+            <language>ru</language>
+        
+
+        
+            <lastBuildDate>Fri, 03 Jan 2025 00:00:00 UTC</lastBuildDate>
+        
+
+        
+            <link>http://localhost:1313/training/</link>
+        
+
+        
+            <atom:link href="http://localhost:1313/training/rss.xml" hreflang="ru" rel="self" type="application/rss+xml"/>
+        
+
+        
+            
+
+            <atom:link href="http://localhost:1313/training/" hreflang="ru" rel="alternate" type="text/html"/>
+        
+            
+
+            <atom:link href="http://localhost:1313/training/rss.xml" hreflang="ru" rel="alternate" type="application/rss+xml"/>
+        
+
+        
+
+        
+
+        
+            <title>Обучение WET терапии · Written Exposure Therapy</title>
+        
+
+        
+
+        
+    </channel>
+</rss>
