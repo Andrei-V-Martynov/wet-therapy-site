@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://Andrei-V-Martynov.github.io/wet-therapy-site/sitemap.xml
+Sitemap: http://wet-therapy.ru/sitemap.xml
